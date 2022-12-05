@@ -7,3 +7,10 @@ You must receive some image as in demo branch
 Create release branch with human (master) in boots (boots branch) and hat (hat branch).
 
 You must receive some image as in demo branch
+
+
+Я вижу 4 коммита:
+heat added
+Merge remote-tracking branch 'origin/hat'
+Merge branch 'boots_buttons'
+i did a thing
